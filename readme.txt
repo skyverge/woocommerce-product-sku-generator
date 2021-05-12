@@ -154,6 +154,9 @@ add_filter( 'wc_sku_generator_force_attribute_sorting', '__return_true' );
 
 == Changelog ==
 
+= 2021.nn.nn - version 2.4.6-dev.1 =
+ * Fix - Avoid uncaught error when saving variable products in certain environments 
+
 = 2020.05.04 - version 2.4.5 =
  * Misc - Add support for WooCommerce 4.1
 
